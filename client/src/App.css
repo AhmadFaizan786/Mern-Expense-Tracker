@@ -21,7 +21,7 @@ main {
   margin:auto;
   padding: 10px;
   border-radius: 8px;
-  background-color: #424242;
+  background-color: #000000;
   position: fixed;
   transform: translate(25%);
 }
